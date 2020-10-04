@@ -1,0 +1,90 @@
+[
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "1",
+            "title": "Software Engineer - Uber"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "2",
+            "title": "Product Manager - Airbnb"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "3",
+            "title": "Sales - Fast"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "4",
+            "title": "Marketing - Fast"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "5",
+            "title": "Data Science - Uber"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "6",
+            "title": "Growth - Airbnb"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "7",
+            "title": "Marketing - Figma"
+        }
+    },
+    {
+        "model": "jobs.job",
+        "fields": {
+            "id": "8",
+            "title": "Product Manager - Cardea"
+        }
+    },
+    {
+        "model": "jobs.joblist",
+        "fields": {
+            "id": "10",
+            "title": "Tech Giants",
+            "members": [1, 2, 5, 6]
+        }
+    },
+    {
+        "model": "jobs.joblist",
+        "fields": {
+            "id": "11",
+            "title": "Breaking into: Product Management",
+            "members": [2]
+        }
+    },
+    {
+        "model": "jobs.joblist",
+        "fields": {
+            "id": "12",
+            "title": "Big Time Sales",
+            "members": [3]
+        }
+    },
+    {
+        "model": "jobs.joblist",
+        "fields": {
+            "id": "13",
+            "title": "Tech Rising",
+            "members": [3, 4, 7]
+        }
+    }
+]
